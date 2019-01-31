@@ -39,6 +39,7 @@ function LeafletTileLayer() {
           img.originalSrc = false;
         }
       });
+      $('.' + className + ' img.leaflet-tile-filter-filtered').removeClass('leaflet-tile-filter-filtered');
       tileLayer.off('tileload');
       return tileLayer;
     }
