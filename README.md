@@ -8,6 +8,7 @@ It is available as a [node module](https://npmjs.com/package/leaflet-tile-filter
 
 ![demo.png](https://github.com/publiclab/leaflet-tile-filter/blob/main/demo.png?raw=true)
 
+This library was made possible in part by [NASA](https://science.nasa.gov/stem-activation-team)'s [AREN project](https://www.globe.gov/web/aren-project/).
 
 ## Usage
 
